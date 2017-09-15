@@ -4,10 +4,9 @@
     ,"description": "域名生成,排列组合,permutation and combination"
     ,"keywords": ["域名生成", "排列组合", "permutation and combination"]
     ,"homepage": "https://github.com/luojixinhao/pac"
-    ,"license": "Apache-2.0"
+    ,"license": "MIT"
     ,"require" : {
-	"php" : ">=5.3.0",
-	"ext-curl" : "*"
+	"php" : ">=5.3.0"
     }
     ,"authors": [
         {
